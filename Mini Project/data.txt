@@ -1,0 +1,8 @@
+101,RedRose,1200,1kg,10
+102,RedRose,600,1/2kg,10
+103,PineApple,1000,1kg,10
+104,PineApple,500,1/2kg,10
+107,BlueBerry,800,1kg,10
+108,BlackForest,400,1/2kg,10
+109,BlackCurrent,1000,1kg,10
+110,BlackCurrent,500,1/2kg,10
